@@ -14,7 +14,7 @@ Sezioni svolte:
 --Daniele: Home, Navbar, Blog;
 --Ruben: Contacts;
 --Luca: Menu;
---Flavian: News;
+--Flavian: News; Footer
 --Riccardo: Contact Us.
 
 -Javascript:
